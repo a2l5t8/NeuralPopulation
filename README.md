@@ -39,17 +39,22 @@ pip install -r requirements.txt
 ```
 
 ### Usage
-1. **Synaptic Connectivity Schemes**: Explore different connectivity patterns using provided scripts.
+0. **All together** : Explore all the different parts of the project at once and play around to find more about its features
+   ```bash
+   CNS-P02-Notebook.ipynb
+   ```
+
+2. **Synaptic Connectivity Schemes**: Explore different connectivity patterns using provided scripts.
    ```bash
    python synaptic_connectivity.py
    ```
 
-2. **Balanced Network Design**: Design and analyze balanced networks.
+3. **Balanced Network Design**: Design and analyze balanced networks.
    ```bash
    python balanced_network.py
    ```
 
-3. **Decision-Making Dynamics**: Simulate decision-making processes.
+4. **Decision-Making Dynamics**: Simulate decision-making processes.
    ```bash
    python decision_making.py
    ```
