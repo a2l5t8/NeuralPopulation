@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```
 
 ### Usage
-0. **All together** : Explore all the different parts of the project at once and play around to find more about its features
+0. **All together** : Explore all the different parts of the project at once and play around to find more about its features (**Highly Recommend**) - other method not completely functional (just to understand the structure and the code better, for experimental purposes use the Notebook)
    ```bash
    CNS-P02-Notebook.ipynb
    ```
